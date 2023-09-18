@@ -1,4 +1,4 @@
-# Excel_Salae-Dashboard
+# Excel_Sale-Dashboard (Vrinda Store Data Analysis)
 My first dashboard in this field
 
 **Steps to Build the Dashboard**
